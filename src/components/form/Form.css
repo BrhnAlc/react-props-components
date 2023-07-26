@@ -1,0 +1,15 @@
+
+
+.form{
+
+    background-color: orangered;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px rgba(0,0,0,0.8);
+    cursor: pointer;
+    margin: 10px;
+    
+}
